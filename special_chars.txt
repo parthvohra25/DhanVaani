@@ -1,0 +1,27 @@
+\\n
+\n
+&amp;
+&nbsp;
+quot;
+&rdquo;
+&mdash;
+&ldquo;
+&rsquo;
+
+'\\n': '',
+'\n': ' ',
+'&amp;': '&',
+'&nbsp;': ' ',
+'&quot;': '"',
+'&rdquo;': '"',
+'&mdash;': '-',
+'&ldquo;': '"',
+'&rsquo;': "'",
+# Add more HTML entities here
+'&lt;': '<',    # Less than sign
+'&gt;': '>',    # Greater than sign
+'&copy;': '©',  # Copyright symbol
+# ... and so on
+
+
+Moneycontrol Pro Panorama |

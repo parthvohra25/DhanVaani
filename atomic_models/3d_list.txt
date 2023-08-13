@@ -1,0 +1,43 @@
+articles_3d_list_eng = [
+    [
+        ['TechNews', 'New Advancements in AI Technology', 'Artificial intelligence has been making significant strides...'],
+        ['ScienceToday', 'Discovering New Exoplanets', 'A team of astronomers recently identified several new exoplanets...'],
+    ],
+    [
+        ['FashionMag', 'Summer Style Trends 2023', 'Get ready for the hottest summer fashion trends of 2023...'],
+        ['HealthWellness', 'The Benefits of Meditation', 'Meditation has been shown to have numerous positive effects on mental health...'],
+    ],
+    [
+        ['TravelExplorer', 'Hidden Gems of Southeast Asia', 'Explore the lesser-known but stunning destinations in Southeast Asia...'],
+        ['FoodieDelight', 'Delicious Recipes for Pasta Lovers', 'Indulge in these mouthwatering pasta recipes that will satisfy any craving...'],
+    ],
+    [
+        ['TechNews', 'New Advancements in AI Technology', 'Artificial intelligence has been making significant strides...'],
+        ['ScienceToday', 'Discovering New Exoplanets', 'A team of astronomers recently identified several new exoplanets...'],
+    ],
+    [
+        ['FashionMag', 'Summer Style Trends 2023', 'Get ready for the hottest summer fashion trends of 2023...'],
+        ['HealthWellness', 'The Benefits of Meditation', 'Meditation has been shown to have numerous positive effects on mental health...'],
+    ],
+    [
+        ['TravelExplorer', 'Hidden Gems of Southeast Asia', 'Explore the lesser-known but stunning destinations in Southeast Asia...'],
+        ['FoodieDelight', 'Delicious Recipes for Pasta Lovers', 'Indulge in these mouthwatering pasta recipes that will satisfy any craving...'],
+    ],
+    [
+        ['TechNews', 'New Advancements in AI Technology', 'Artificial intelligence has been making significant strides...'],
+        ['ScienceToday', 'Discovering New Exoplanets', 'A team of astronomers recently identified several new exoplanets...'],
+    ],
+    [
+        ['FashionMag', 'Summer Style Trends 2023', 'Get ready for the hottest summer fashion trends of 2023...'],
+        ['HealthWellness', 'The Benefits of Meditation', 'Meditation has been shown to have numerous positive effects on mental health...'],
+    ],
+    [
+        ['TravelExplorer', 'Hidden Gems of Southeast Asia', 'Explore the lesser-known but stunning destinations in Southeast Asia...'],
+        ['FoodieDelight', 'Delicious Recipes for Pasta Lovers', 'Indulge in these mouthwatering pasta recipes that will satisfy any craving...'],
+    ]
+]
+
+# Accessing elements:
+website = articles_3d_list_eng[0][0][0]  # 'TechNews'
+headline = articles_3d_list_eng[0][0][1]  # 'New Advancements in AI Technology'
+article_body = articles_3d_list_eng[0][0][2]  # 'Artificial intelligence has been making significant strides...'
