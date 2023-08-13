@@ -1,0 +1,43 @@
+[
+    {
+      "topic": "loan",
+      "content": "A loan is when you need money to buy something, like a toy or a house, but you don't have enough. So, a friend or a special money place gives you the money, but you promise to give it back over time. They also ask for a little extra money, sort of like a borrowing fee. It's like when you borrow a toy from a friend, but you'll give it back and a little treat too. Just remember, if you don't give the money back like you said, there might be some trouble. So, loans can help you get things now, but you need to keep your promise and follow the rules!"
+    },
+    {
+      "topic": "interest",
+      "content": "As a fee you pay for borrowing money. When you ask to borrow money, the person or bank lending it to you is doing you a favor. They could use that money for other things or keep it safe, but they're letting you use it instead. In return, they ask you to pay a little bit more money on top of what you borrowed. This extra bit is called interest. It's like a thank-you gift to the lender for being patient and letting you have the money you need. So, when you're paying back the borrowed money, you're not only returning the actual amount you got (the principal), but you're also giving a bit more as thanks for the loan"
+    },
+    {
+      "topic": "asset",
+      "content": "An asset is something you own that has value, like your bike, a fancy gadget, or even money in your piggy bank. It's like your cool stuff that you can use or sell if you need to. On the other hand, a liability is like a promise to give something or do something for someone else. It's a debt or responsibility you owe. For example, if you borrow money from a friend, that's a liability because you need to pay it back. Or if you promise to walk your neighbor's dog, that's a kind of liability too. So, assets are your valuable things, and liabilities are your commitments or things you owe. In simple words, assets are what you have, and liabilities are what you owe or need to do for others."
+    },
+    {
+      "topic": "compound interest",
+      "content": "Think of compound interest like a snowball rolling down a hill. When you start with a small snowball and roll it down, it picks up more snow as it goes. As it gets bigger, it collects even more snow with each roll. In the same way, when you save money with compound interest, your initial savings grow over time, and then those larger savings start earning even more money. It's like your money is snowballing and growing faster as it rolls along. Just like a snowball gets bigger as it gathers snow, your savings pile up and become a bigger amount thanks to compound interest."
+    },
+    {
+      "topic": "SIP",
+      "content": "SIP stands for (Systematic Investment Plan). It's like a smart way to save money and invest in things like stocks or mutual funds. Instead of putting a big amount all at once, which can be tough, SIP lets you put in a smaller fixed amount regularly, like every month. It's like saving a little from your allowance each week. This has a cool advantage,when prices are high, you buy fewer units, and when prices are low, you buy more units. Over time, this can help you get more of your chosen investment even with a small amount. It's like building a collection slowly, bit by bit. So, SIP is like a steady, automatic way to grow your money without putting a strain on your wallet."
+    },
+    {
+      "topic": "stock",
+      "content": "Imagine you're part of a team that bakes delicious cookies. To start your cookie business, you need money for ingredients and baking tools. You ask your friends to chip in, and in return, you give them little (cookie ownership cards). Each card represents a tiny piece of your cookie business. These ownership cards are like stocks. If your cookie business becomes really popular and starts selling lots of cookies, more people might want to buy your ownership cards. As the demand for these cards goes up, their value increases. So, if you ever want to share the cookie business with others or sell your piece, the ownership cards (stocks) could be worth more than when you first got them. Just like that, stocks in a company are like pieces of ownership that can become more valuable if the company does well."
+    },
+    {
+      "topic": "Mutual Fund",
+      "content": "Imagine you and your friends love collecting different types of candies. You decide to put your pocket money together and hire a candy collector. This collector goes to different stores and buys a variety of candies for your group. They bring back all the candies and distribute them among your friends. The collector's job is to make sure you have a good mix of candies, so even if one type isn't very tasty, you still have other delicious options. Later, when you sell some of the candies or trade them, any money you make is shared among all your friends who chipped in. That's a bit like how a mutual fund works. People pool their money, a manager buys a mix of investments, and any profits are divided among the investors. It's a simple way to invest together and have a range of options, just like your candy collection!"
+    },
+    {
+      "topic": "Liquidity and Volatility",
+      "content": "Liquidity is how easily you can turn something into cash. Think of it like selling your old video game. If it's popular and lots of people want it, you can sell it quickly. That's good liquidity. But if it's a rare game that few people want, it might take longer to find a buyer. That's lower liquidity. In money terms, high liquidity means you can quickly use or sell something for cash without much hassle. Volatility is like a see-saw that moves a lot. Imagine the prices of your favorite candies bouncing up and down in a short time. That's high volatility. If the prices change a little, it's low volatility. In the financial world, high volatility means prices of things like stocks can change dramatically in a short period, while low volatility means they stay more stable. High volatility can mean bigger ups and downs, which can be exciting but also riskier."
+    },
+    {
+      "topic": "P.E ratio",
+      "content": "Sure thing! Think of the P/E ratio as a way to see if a company's stock is a good buy. It's like comparing the price of a pizza slice to how much money that pizza place makes. If the P/E ratio is high, it's like paying a lot for a small slice of pizza – the stock might be pricier compared to the company's earnings. If the P/E ratio is low, it's like getting a big slice of pizza for a good price – the stock might be cheaper compared to the company's earnings. So, the P/E ratio helps you decide if a stock's price matches how much money the company is making, making it easier to figure out if it's a tasty investment or not."
+    },
+    {
+      "topic": "Repo rate",
+      "content": "You're borrowing a toy from your friend, and your friend wants you to give them a little something extra when you return it. The repo rate is kind of like that (little something extra) but in the world of banks and money. When banks borrow money from the central bank (the main money place), they agree to pay back the money with a bit of interest ,that's the repo rate. It's like a small fee for using the central bank's money. The higher the repo rate, the more expensive it is for banks to borrow, which can affect how much they lend to people like you and businesses. So, the repo rate is like a way the central bank keeps an eye on how much money is floating around and how much it costs to borrow."
+    }
+  ]
+  

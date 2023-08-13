@@ -1,0 +1,224 @@
+[
+      {
+        "question": "What is a loan?",
+        "options": [
+          "A way to earn money quickly",
+          "Borrowing money to buy something",
+          "A type of investment",
+          "Giving money to a friend"
+        ],
+        "answerIndex": 1,
+        "answer": "Borrowing money to buy something"
+      },
+      {
+        "question": "What does 'compound interest' mean?",
+        "options": [
+          "Simple interest earned on savings",
+          "Adding money to your account regularly",
+          "Earning interest on both the initial amount and the accumulated interest",
+          "Interest that is paid once a year"
+        ],
+        "answerIndex": 2,
+        "answer": "Earning interest on both the initial amount and the accumulated interest"
+      },
+      {
+        "question": "What does 'credit' refer to?",
+        "options": [
+          "An amount of money you owe to someone",
+          "The money you have saved",
+          "Money you receive as a gift",
+          "Your ability to borrow money"
+        ],
+        "answerIndex": 3,
+        "answer": "Your ability to borrow money"
+      },
+      {
+        "question": "Which of the following is an example of an asset?",
+        "options": [
+          "Money you owe to a friend",
+          "A house you own",
+          "Your monthly rent payment",
+          "Your monthly utility bills"
+        ],
+        "answerIndex": 1,
+        "answer": "A house you own"
+      },
+      {
+        "question": "What does a 'Systematic Investment Plan' (SIP) involve?",
+        "options": [
+          "Withdrawing all your savings at once",
+          "Borrowing money from a bank",
+          "Regularly investing a fixed amount in a fund",
+          "Spending money on a shopping spree"
+        ],
+        "answerIndex": 2,
+        "answer": "Regularly investing a fixed amount in a fund"
+      },
+      {
+        "question": "What is a 'stock'?",
+        "options": [
+          "A type of loan",
+          "A piece of ownership in a company",
+          "Money you lend to a friend",
+          "A type of credit card"
+        ],
+        "answerIndex": 1,
+        "answer": "A piece of ownership in a company"
+      },
+      {
+        "question": "What is a 'mutual fund'?",
+        "options": [
+          "A way to save money in a bank",
+          "Owning a business on your own",
+          "A group investment where funds are pooled to buy a variety of assets",
+          "A type of loan from a friend"
+        ],
+        "answerIndex": 2,
+        "answer": "A group investment where funds are pooled to buy a variety of assets"
+      },
+      {
+        "question": "What does 'liquidity' refer to?",
+        "options": [
+          "How easily an asset can be turned into cash",
+          "How much money you owe to others",
+          "How much you've invested in the stock market",
+          "How much interest you're earning"
+        ],
+        "answerIndex": 0,
+        "answer": "How easily an asset can be turned into cash"
+      },
+      {
+        "question": "What is 'volatility' in financial terms?",
+        "options": [
+          "A measure of how much money you've saved",
+          "How steady or unstable the value of an investment is",
+          "A type of loan interest",
+          "How much money you earn each month"
+        ],
+        "answerIndex": 1,
+        "answer": "How steady or unstable the value of an investment is"
+      },
+      {
+        "question": "What does the P/E ratio help investors determine?",
+        "options": [
+          "The price of entertainment",
+          "The percentage of earnings",
+          "The price of energy",
+          "The price of equity"
+        ],
+        "answerIndex": 1,
+        "answer": "The percentage of earnings"
+      },
+      {
+        "question": "What does the term 'repo rate' represent?",
+        "options": [
+          "The rate at which people borrow books from a library",
+          "The rate at which banks lend money to individuals",
+          "The rate at which the central bank lends money to commercial banks",
+          "The rate at which people save money in a savings account"
+        ],
+        "answerIndex": 2,
+        "answer": "The rate at which the central bank lends money to commercial banks"
+      },
+      {
+        "question": "What is the purpose of interest in a loan?",
+        "options": [
+          "To make the loan difficult to understand",
+          "To reduce the amount of money owed",
+          "To allow the lender to make a profit",
+          "To make the borrower's life easier"
+        ],
+        "answerIndex": 2,
+        "answer": "To allow the lender to make a profit"
+      },
+      {
+        "question": "What does 'CAGR' stand for?",
+        "options": [
+          "Current Annual Growth Rate",
+          "Compound Asset Growth Ratio",
+          "Common Average Growth Rate",
+          "Compound Annual Growth Rate"
+        ],
+        "answerIndex": 3,
+        "answer": "Compound Annual Growth Rate"
+      },
+      {
+        "question": "How would you describe 'credit' in simple terms?",
+        "options": [
+          "Money you earn from your job",
+          "Money you owe to someone",
+          "The money you have saved in a bank",
+          "The amount of money you can borrow"
+        ],
+        "answerIndex": 1,
+        "answer": "Money you owe to someone"
+      },
+      {
+        "question": "Which term describes the ease of turning an investment into cash?",
+        "options": [
+          "Volatility",
+          "Credit",
+          "Liquidity",
+          "P/E ratio"
+        ],
+        "answerIndex": 2,
+        "answer": "Liquidity"
+      },
+      {
+        "question": "If you borrow money and promise to pay it back with a little extra, what is that 'extra' called?",
+        "options": [
+          "Interest",
+          "Principal",
+          "Investment",
+          "Asset"
+        ],
+        "answerIndex": 0,
+        "answer": "Interest"
+      },
+      {
+        "question": "What is the main benefit of diversifying your investments?",
+        "options": [
+          "Reduced risk",
+          "Increased volatility",
+          "Higher interest rates",
+          "Lower liquidity"
+        ],
+        "answerIndex": 0,
+        "answer": "Reduced risk"
+      },
+      {
+        "question": "Which term refers to a steady, automatic way of investing a fixed amount regularly?",
+        "options": [
+          "SIP",
+          "P/E ratio",
+          "Volatility",
+          "Mutual fund"
+        ],
+        "answerIndex": 0,
+        "answer": "SIP"
+      },
+      {
+        "question": "What does 'collateral' mean in the context of a loan?",
+        "options": [
+          "Something valuable you provide as security",
+          "The interest rate",
+          "The total amount borrowed",
+          "The number of monthly payments"
+        ],
+        "answerIndex": 0,
+        "answer": "Something valuable you provide as security"
+      },
+      {
+        "question": "If a company's stock has a high P/E ratio, what might that indicate?",
+        "options": [
+          "The company's profits are low",
+          "The stock is a good value",
+          "The stock is risky",
+          "The company's profits are high"
+        ],
+        "answerIndex": 2,
+        "answer": "The stock is risky"
+      }
+]
+  
+  
