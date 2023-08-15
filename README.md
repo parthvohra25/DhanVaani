@@ -9,4 +9,4 @@ Key Features:
 - Beginner modules and quizzes offer an interactive learning experience for those new to financial concepts.
 
 Product Demo [Hindi](https://youtu.be/R9UQeA8zfus)
-             [English] (https://youtu.be/0JrA9WBhm40)
+             [Hindi](https://youtu.be/0JrA9WBhm40)
