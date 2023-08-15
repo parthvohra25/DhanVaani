@@ -1,6 +1,4 @@
 # DhanVaani
-![Blackrock Presentation](https://github.com/parthvohra25/DhanVaani/assets/72933441/3bde9b9a-fa37-4e6d-b5a0-e54f9812a548)
-
 DhanVaani - Empowering Financial Literacy through Technology
 
 DhanVaani is a dynamic React Native application designed to enhance financial literacy and awareness among users. The app serves as a comprehensive platform that aggregates and delivers daily financial news articles from diverse categories in both English and Hindi. With an emphasis on accessibility, the content is accompanied by audio support, catering to auditory learners and individuals seeking multi-lingual resources.
@@ -11,5 +9,5 @@ Key Features:
 - Beginner modules and quizzes offer an interactive learning experience for those new to financial concepts.
 
 Product Demo : [Hindi](https://youtu.be/R9UQeA8zfus) **|** [English](https://youtu.be/0JrA9WBhm40)
-
+![Blackrock Presentation](https://github.com/parthvohra25/DhanVaani/assets/72933441/3bde9b9a-fa37-4e6d-b5a0-e54f9812a548)
 
