@@ -8,5 +8,5 @@ Key Features:
 - Provides summaries, translations, and audio versions in both English and Hindi, enabling users to consume content in their preferred mode.
 - Beginner modules and quizzes offer an interactive learning experience for those new to financial concepts.
 
-Product Demo [Hindi](https://youtu.be/R9UQeA8zfus)
-             [Hindi](https://youtu.be/0JrA9WBhm40)
+Product Demo : [Hindi](https://youtu.be/R9UQeA8zfus)
+             [English](https://youtu.be/0JrA9WBhm40)
